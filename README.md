@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # Hey there! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 ![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
 
-Meu nome é Roberto Vieira Carlos, estudande de Desenvolvimento Web , apaixonado por tecnologia, programação, cerveja 🍺, recentemente por café ☕!
+Meu nome é Roberto, estudande de Desenvolvimento Web , apaixonado por tecnologia, programação, cerveja 🍺, recentemente por café ☕!
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=beto-desenv.readme)
 - 🔭 Atualmente estou trabalhando como freelancer na [DesenvTI](https://www.linkedin.com/company/desenvti/).
