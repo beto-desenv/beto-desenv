@@ -21,7 +21,7 @@ Meu nome é Roberto, estudande de Desenvolvimento Web , apaixonado pela minha fa
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=beto-desenv.readme)
 - 🔭 Atualmente estou trabalhando como freelancer na [DesenvTI](https://www.linkedin.com/company/desenvti/).
-- 🌱 Estou aprendendo a desenvolver aplicações web utilizando Javascript | HTML5 | CSS3 (Front-end) e C# | HTML5 | SQLServer (Back-end).
+- 🌱 Estou aprendendo a desenvolver aplicações web utilizando Javascript | HTML5 | CSS3 (Front-end) e C# | SQLServer (Back-end).
 - 🤔 Estou procurando uma oportunidade de integrar uma equipe, uma empresa para que eu possa melhorar cada vez mais o meu código.
 - ☑️ Meu objetivo é me tornar um desenvolvedor capaz de mudar a vida das pessoas, fazer realmente a diferença!
 - 📫 Como chegar até mim:
