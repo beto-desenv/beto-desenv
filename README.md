@@ -2,7 +2,7 @@
 # Iae galera! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 ![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
 
-Meu nome é Roberto, estudande de Desenvolvimento Web , apaixonado pela minha familia 👪, por tecnologia, programação 💻, cerveja 🍺, recentemente por café ☕!
+Meu nome é Roberto, estudante de Desenvolvimento Web , apaixonado pela minha familia 👪, por tecnologia, programação 💻, cerveja 🍺, recentemente por café ☕!
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=beto-desenv.readme)
 - 🔭 Migrando da logística para o TI, trabalhando como freelancer na [DesenvTI](https://www.linkedin.com/company/desenvti/).
