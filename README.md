@@ -32,8 +32,8 @@ Meu nome é Roberto, estudante de Desenvolvimento Web , apaixonado pela minha fa
 
  <div>
   <a href="https://github.com/beto-desenv">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=beto-desenv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="183" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beto-desenv&layout=compact&langs_count=16&theme=dracula"/><br>
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=beto-desenv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="163" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beto-desenv&layout=compact&langs_count=16&theme=dracula"/><br>
   </div>
   
   
