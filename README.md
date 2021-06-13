@@ -31,7 +31,6 @@ Meu nome é Roberto, estudante de Desenvolvimento Web , apaixonado pela minha fa
    💻 Certificard da Imersão_dev da Alura:<br><br>
   <a href="https://codepen.io/beto-desenv/full/JjEpMXV">
     <img height="25" width="120" src="https://i0.wp.com/blog.codepen.io/wp-content/uploads/2012/06/codepen-wordmark-display-inside-white@10x.png?ssl=1" />
-  </a>
     <img height="25" width="25" src="https://i0.wp.com/blog.codepen.io/wp-content/uploads/2012/06/Button-Fill-White-Small.png?resize=125%2C125&ssl=1" />
   </a>
 </div>
