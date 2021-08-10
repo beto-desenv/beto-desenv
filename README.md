@@ -6,7 +6,7 @@ Meu nome é Roberto, estudante de Desenvolvimento Web , apaixonado pela minha fa
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=beto-desenv.readme)
 
-- 🔭 Trabalhando como **Desenvolvedor Back-End Jr.** na **UDS Tecnologia.
+- 🔭 Trabalhando como **Desenvolvedor Back-End Jr.** na **UDS Tecnologia**.
 - 🌱 Aprendendo a desenvolver aplicações web utilizando Javascript | HTML5 | CSS3 (Front-end) e C# | SQLServer (Back-end).
 - ☑️ Meu objetivo é me tornar um desenvolvedor capaz de mudar vidas, fazer realmente a diferença!
 - 📫 Como chegar até mim:
