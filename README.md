@@ -1,23 +1,23 @@
 
-# Iae galera! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+# Olá, seja muito bem vindo(a)! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 ![Snake animation](https://github.com/beto-desenv/beto-desenv/blob/output/github-contribution-grid-snake.svg)
 
 Meu nome é Roberto, estudante de Desenvolvimento Web , apaixonado pela minha familia 👨‍👩‍👧, por tecnologia, programação 💻, cerveja 🍺, recentemente por café ☕!
 
-<p align="left"><b> N° de visitantes ao meu Github: </p>
-<p align="left">   <img alingn="center" src="https://profile-counter.glitch.me/SeuPerfildoGitHub/count.svg" /></p>
+<p align="left"><b> N° de visitas ao meu perfil desde: 14/04/2022 </p>
+<p align="left">   <img alingn="center" src="https://profile-counter.glitch.me/beto-desenv/count.svg" /></p>
 
 - 🔭 **Desenvolvedor Back-End Jr.** na **UDS Tecnologia**.
 - 🌱 Aprendendo a desenvolver aplicações web utilizando Javascript | HTML5 | CSS3 (Front-end) e C# | SQLServer (Back-end).
 - ☑️ Meu objetivo é me tornar um desenvolvedor capaz de mudar vidas, fazer realmente a diferença!
 - 📫 Como chegar até mim:
 
-<a href="https://api.whatsapp.com/send?phone=5511982294590">
-    <img height="30" width="30" src="https://cdn-icons.flaticon.com/png/512/4423/premium/4423697.png?token=exp=1649953990~hmac=79db0f53e2bcf19ee19d2cb3c86d5645" />
-  </a>
-    
   <a href="https://www.instagram.com/beto_vieiracarlos/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  
+  <a href="https://api.whatsapp.com/send?phone=5511982294590">
+    <img height="28" width="28" src="https://cdn-icons.flaticon.com/png/512/4423/premium/4423697.png?token=exp=1649953990~hmac=79db0f53e2bcf19ee19d2cb3c86d5645" />
   </a>
   
   <a href="https://www.linkedin.com/in/roberto-vieira-carlos-8aa06796/">
