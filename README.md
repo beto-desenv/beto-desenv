@@ -4,9 +4,8 @@
 
 Meu nome é Roberto, estudante de Desenvolvimento Web , apaixonado pela minha familia 👨‍👩‍👧, por tecnologia, programação 💻, cerveja 🍺, recentemente por café ☕!
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=beto-desenv.readme)
-<p align="center"> texto que você quiser </p>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/SeuPerfildoGitHub/count.svg" /></p>
+<p align="left"><b> N° de visitantes ao meu Github: </p>
+<p align="left">   <img alingn="center" src="https://profile-counter.glitch.me/SeuPerfildoGitHub/count.svg" /></p>
 
 - 🔭 **Desenvolvedor Back-End Jr.** na **UDS Tecnologia**.
 - 🌱 Aprendendo a desenvolver aplicações web utilizando Javascript | HTML5 | CSS3 (Front-end) e C# | SQLServer (Back-end).
@@ -14,7 +13,7 @@ Meu nome é Roberto, estudante de Desenvolvimento Web , apaixonado pela minha fa
 - 📫 Como chegar até mim:
 
 <a href="https://api.whatsapp.com/send?phone=5511982294590">
-    <img height="30" width="120" src="https://pngset.com/images/whatsapp-button-image-free-download-searchpng-whatsapp-icon-text-word-alphabet-logo-transparent-png-425038.png" />
+    <img height="30" width="30" src="https://cdn-icons.flaticon.com/png/512/4423/premium/4423697.png?token=exp=1649953990~hmac=79db0f53e2bcf19ee19d2cb3c86d5645" />
   </a>
     
   <a href="https://www.instagram.com/beto_vieiracarlos/">
