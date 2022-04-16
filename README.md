@@ -38,10 +38,18 @@ Meu nome é Roberto, estudante de Desenvolvimento Web , apaixonado pela minha fa
   <hr>
   
   <div style="display: inline_block"><br>
+  <a href=https://pt.wikipedia.org/wiki/JavaScript>
     <img align="center" alt="Beto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  </a>
+  <a href=https://pt.wikipedia.org/wiki/HTML5>
     <img align="center" alt="Beto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  </a>
+  <a href=https://pt.wikipedia.org/wiki/CSS3>
     <img align="center" alt="Beto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  </a>
+  <a href=https://pt.wikipedia.org/wiki/C_Sharp>
     <img align="center" alt="Beto-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  </a>  
   </div><br>
 
  <div>
