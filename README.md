@@ -17,7 +17,7 @@ Meu nome é Roberto, estudante de Desenvolvimento Web , apaixonado pela minha fa
   </a>
   
   <a href="https://api.whatsapp.com/send?phone=5511982294590">
-    <img height="28" width="28" src="https://cdn-icons.flaticon.com/png/512/4423/premium/4423697.png?token=exp=1649953990~hmac=79db0f53e2bcf19ee19d2cb3c86d5645" />
+    <img height="28" width="28" src="https://cdn-icons-png.flaticon.com/512/1384/1384883.png" />
   </a>
   
   <a href="https://www.linkedin.com/in/roberto-vieira-carlos-8aa06796/">
