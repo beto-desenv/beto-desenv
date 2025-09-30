@@ -1,37 +1,51 @@
 # 👋 Olá, seja muito bem-vindo(a)!
 
-Sou **Roberto**, Desenvolvedor Back-End. Apaixonado por tecnologia, programação 💻, café ☕ e pela minha família 👨‍👩‍👧.  
-Atualmente sou **Desenvolvedor Back-End PL. na Ânima Educação** e meu objetivo é me tornar um dev capaz de transformar vidas através da tecnologia.
+Sou **Roberto Vieira Carlos**, Desenvolvedor Back-End na **Ânima Educação**.  
+Apaixonado por tecnologia, programação 💻, café ☕ e pela minha família 👨‍👩‍👧.  
+Tenho mais de 3 anos de experiência em desenvolvimento de sistemas, APIs REST e microsserviços com C# e .NET, sempre aplicando boas práticas e metodologias ágeis.
 
 ![Snake animation](https://raw.githubusercontent.com/beto-desenv/beto-desenv/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 🚀 Atualmente
-- Aprendendo **JavaScript | HTML5 | CSS3 (Front-end)**  
-- Praticando **C# | SQL Server (Back-end)**  
+- Desenvolvendo **APIs REST com C# e .NET Core**  
+- Trabalhando com **PostgreSQL | Oracle | SQL Server**  
+- Deploys em **Azure DevOps (CI/CD)**  
+- Contêineres com **Docker + Rancher (Kubernetes)**  
+- Participando de times ágeis com **Scrum**  
+
+---
 
 ## 🎯 Objetivo
-Tornar-me um desenvolvedor capaz de mudar vidas e fazer a diferença através da tecnologia.
+Continuar evoluindo como desenvolvedor back-end, explorando cada vez mais **arquitetura de microsserviços, cloud e boas práticas de engenharia de software**.  
+Meu propósito é impactar vidas através da tecnologia, criando soluções eficientes e transformadoras.
 
 ---
 
 ## 🌐 Conecte-se comigo
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/beto_vieiracarlos/)  
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-vieira-carlos-8aa06796/)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511982294590)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511982294590)  
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Tecnologias & Competências
+- **Back-end**: C#, .NET, .NET Core, Entity Framework  
 - **Front-end**: JavaScript, HTML5, CSS3  
-- **Back-end**: C#, SQL Server  
-- **Outros**: Git, GitHub  
+- **Bancos de dados**: SQL Server, Oracle, PostgreSQL  
+- **Cloud & DevOps**: Azure DevOps, Docker, Rancher Kubernetes  
+- **Metodologias**: Scrum, Microsserviços  
+- **Soft Skills**: comunicação, colaboração, foco em resultados  
 
 ---
 
-## 📜 Certificados & Projetos
-- [Certificard da Imersão Dev (Alura)](https://codepen.io/beto-desenv/full/JjEpMXV)
+## 📜 Certificações
+- Projetos Ágeis com Scrum  
+- Estrutura de Dados e Algoritmos  
+- Lógica de Programação Essencial  
+- Introdução ao Git e ao GitHub  
+- Apache Kafka para iniciantes  
 
 ---
 
@@ -43,4 +57,3 @@ Tornar-me um desenvolvedor capaz de mudar vidas e fazer a diferença através da
 
 ## 👀 Visitas
 ![Profile views](https://komarev.com/ghpvc/?username=beto-desenv&color=blue&style=flat-square)
-
