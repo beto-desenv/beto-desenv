@@ -3,7 +3,7 @@
 Sou **Roberto**, Desenvolvedor Back-End. Apaixonado por tecnologia, programação 💻, café ☕ e pela minha família 👨‍👩‍👧.  
 Atualmente sou **Desenvolvedor Back-End PL. na Ânima Educação** e meu objetivo é me tornar um dev capaz de transformar vidas através da tecnologia.
 
-![Snake animation](https://github.com/beto-desenv/beto-desenv/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/beto-desenv/beto-desenv/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -42,4 +42,5 @@ Tornar-me um desenvolvedor capaz de mudar vidas e fazer a diferença através da
 ---
 
 ## 👀 Visitas
-![Profile views](https://profile-counter.glitch.me/beto-desenv/count.svg)
+![Profile views](https://komarev.com/ghpvc/?username=beto-desenv&color=blue&style=flat-square)
+
